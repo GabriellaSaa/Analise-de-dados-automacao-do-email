@@ -5,8 +5,8 @@ from email.message import EmailMessage
 
 #1 - Dados
 password=open("senha", "r").read()
-from_email="gabs.valki@gmail.com"
-to_email="gabs.valki@gmail.com"
+from_email="digite email"
+to_email="digite email"
 subject= "Automação Planilha-teste2"
 body=""" 
 Olá,
